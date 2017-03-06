@@ -5,6 +5,6 @@ public class Demo {
 		System.out.println("ta");
 	}
 	public void sss(){
-		
+		System.out.println("ta");
 	}
 }
