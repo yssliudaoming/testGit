@@ -7,4 +7,6 @@ public class Demo {
 	public void sss(){
 		System.out.println("ta");
 	}
+	public void hello(){
+		
 }
