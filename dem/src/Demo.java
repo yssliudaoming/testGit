@@ -6,5 +6,7 @@ public class Demo {
 	}
 	public void sss(){
 		System.out.println("ta");
+		System.out.println("³åÍ»´¦Àí");
 	}
+	
 }
